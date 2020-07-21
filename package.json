@@ -1,5 +1,5 @@
 {
-  "name": "@shopify/theme-addresses",
+  "name": "@totelife/theme-addresses",
   "version": "4.0.0",
   "description": "A library that helps developers work with addresses within Shopify Themes",
   "main": "dist/theme-addresses.cjs.js",
@@ -10,7 +10,7 @@
   },
   "publishConfig": {
     "access": "public",
-    "@shopify:registry": "https://registry.npmjs.org"
+    "@totelife:registry": "https://registry.npmjs.org"
   },
   "keywords": [
     "slate"
